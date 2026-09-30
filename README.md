@@ -4,6 +4,8 @@ Ett gratis FiveM-script för polis-RP där poliser kan placera körförbud på f
 
 Alla körförbud sparas i databasen, synkas mellan spelare och finns kvar efter server- och resursrestart.
 
+Byggt för ESX Legacy
+
 ## 🎥 Showcase
 
 ▶️ [Se videon på YouTube](https://youtu.be/YN13gzTRBGc)
